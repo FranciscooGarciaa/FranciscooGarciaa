@@ -1,10 +1,11 @@
-Full-Stack Software Engineer building production software, AI systems and autonomous robotics.
-Currently working with TypeScript, Python and React Native.
+# Hi, I'm Francisco
 
-### Featured projects
+Full-Stack Software Engineer building production web, mobile and AI systems, alongside autonomous robotics projects.
 
-- [Cuántico](https://github.com/FranciscooGarciaa/Cuantico) — Open-source voice assistant with personality, running on a Raspberry Pi.
-- [Robert](https://github.com/FranciscooGarciaa/Robert) — Autonomous rover that follows you, describes what it sees and talks back.
-- Robert v2 — Next generation of the rover. Coming soon.
+### Selected builds
 
-[franslab.es](https://franslab.es)
+- **[Cuántico](https://github.com/FranciscooGarciaa/Cuantico)** — AI-powered hardware assistant integrating speech recognition, LLMs, custom electronics and mechanical design.
+- **[Robert](https://github.com/FranciscooGarciaa/Robert)** — Autonomous Raspberry Pi rover combining computer vision, voice AI and real-time control.
+- **[FransLab](https://franslab.es)** — I document original robotics and engineering projects on YouTube, translating complex technical concepts for large audiences.
+
+**Tech:** TypeScript · Python · React Native · Node.js · PostgreSQL · Docker · Raspberry Pi · Computer Vision
